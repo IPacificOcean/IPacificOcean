@@ -3,7 +3,9 @@
 </div>
 
 
-https://media.giphy.com/media/cDZJ17fbzWVle68VCB/giphy.gif
+
+
+
 ### Hi there 👋
 
 <!--
